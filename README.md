@@ -7,13 +7,10 @@
 
 Hi, I’m Zibo Ye. I find my passion in graphics engineering, particularly in GPU programming and performance optimization.
 
-<!-- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zibo-ye/)](https://www.linkedin.com/in/zibo-ye/) -->
-
 - 😄 Pronouns: he/him
+- 💻 Currently writing a Vulkan-based graphics engine. Still in rough shape, but planned to support Bindless Rendering, Render Graph, GPU Driven Rendering, Path Tracing, Mesh Shading, Work Graph and more.
 - 🔭 I’m currently earning my Master's degree in Entertainment Technology at Carnegie Mellon.
-- 💬 Ask me about Real-time Graphics & GPU Programming
-
-<!-- ![Riderman's github stats](https://github-readme-stats.vercel.app/api?username=zibo-ye&show_icons=true&hide_border=true) -->
+- 💬 Discuss with me about Real-time Graphics & GPU Programming & optimization
 
 <div>
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zibo-ye" alt="Zibo's LangStat" />
